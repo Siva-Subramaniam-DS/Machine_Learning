@@ -148,3 +148,25 @@ significantly higher than others, it is performing better.
 **Conclusion:**
 - The output is correct if you see reasonable values for these metrics, and if the models are performing similarly or better than simpler models (e.g., a random guess or the mean of the target variable).
 - If your R² score is very low or negative, or if your error metrics (RMSE, MSE, MAE) are unusually high, the model is not performing well.
+
+---
+
+### Visualization
+
+**Correlation Heatmap**
+![Correlation Heatmap](https://github.com/user-attachments/assets/4b865151-0bfc-4bd6-a4e5-6533f610748b)
+
+---
+
+**PairPlot of Numerical Features and Target**
+![PairPlot of Numerical Features and target](https://github.com/user-attachments/assets/6a7f4af0-968f-4dbc-b077-3443b78bcd9c)
+
+---
+
+**R2 Score comparison**
+![R2 Score comparison](https://github.com/user-attachments/assets/c218a115-98e9-4573-92c0-7f984da0326c)
+
+---
+
+**RMSE Comparison**
+![RMSE Comparison](https://github.com/user-attachments/assets/8dd801ab-cbd4-42f1-bbb6-47cefc9a5787)
