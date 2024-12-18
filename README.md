@@ -12,7 +12,8 @@ This project uses machine learning models to predict audience ratings for movies
 4. [Model Training](#model-training)  
 5. [Evaluation Metrics](#evaluation-metrics)  
 6. [Performance Comparison](#performance-comparison)  
-7. [Conclusion](#conclusion)  
+7. [Conclusion](#conclusion)
+8. [Visualization](#visualization)
 
 ---
 
@@ -154,19 +155,23 @@ significantly higher than others, it is performing better.
 ### Visualization
 
 **Correlation Heatmap**
+
 ![Correlation Heatmap](https://github.com/user-attachments/assets/4b865151-0bfc-4bd6-a4e5-6533f610748b)
 
 ---
 
 **PairPlot of Numerical Features and Target**
+
 ![PairPlot of Numerical Features and target](https://github.com/user-attachments/assets/6a7f4af0-968f-4dbc-b077-3443b78bcd9c)
 
 ---
 
 **R2 Score comparison**
+
 ![R2 Score comparison](https://github.com/user-attachments/assets/c218a115-98e9-4573-92c0-7f984da0326c)
 
 ---
 
 **RMSE Comparison**
+
 ![RMSE Comparison](https://github.com/user-attachments/assets/8dd801ab-cbd4-42f1-bbb6-47cefc9a5787)
